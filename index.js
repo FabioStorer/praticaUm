@@ -33,9 +33,11 @@ process.stdin.on('data', function (data) {
 
     if (salvar) {
         console.log('Essa pessoa está cadastrada.');
+        console.log('Se quiser finalizar a busca basta digitar "Sair".');
         salvar = '';
     } else {
         console.log('Essa pessoa não foi encontrada.');
+        console.log('Se quiser finalizar a busca basta digitar "Sair".');
         salvar = '';
     }
 })
