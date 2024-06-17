@@ -1,1 +1,1 @@
-console.log('Prática 1.');
+console.log('Prática 1. Atividade para buscar objeto por um email.');
