@@ -13,7 +13,7 @@ let cadastro = [{
 }];
 let input = '';
 let salvar = '';
-
+console.log('teste');
 console.log('Olá. Você está fazendo uma busca em um banco de dados de um cadastro.');
 console.log('Digite um email válido para verificar se o usuário está cadastrado.');
 console.log('Ou digite "Sair" para finalizar a busca.');
